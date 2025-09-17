@@ -4,7 +4,7 @@
 ## 変数テーブル
 | 変数名                           | 型              |   単位 | 説明                                    |
 | ------------------------------- | --------------- | -----: | ------------------------------------- |
-| Datetime                        | string          |      – | 時刻（各行の**時間の先頭**）。1日間隔。    |
+| Datetime                        | string          |      – | 日付                                |
 | Global\_active\_power\_min      | float64         |     kW | 有効電力の**最小値**。                |
 | Global\_active\_power\_mean     | float64         |     kW | 有効電力の**平均値**。                 |
 | Global\_active\_power\_max      | float64         |     kW | 有効電力の**最大値**。                  |
